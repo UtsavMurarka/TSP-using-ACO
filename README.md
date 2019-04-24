@@ -5,4 +5,4 @@ Solving the [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelli
 Requirements:<br/>
 numpy<br/>
 matplotlib<br/>
-ACO-Pants [Documentation](https://pypi.org/project/ACO-Pants/)
+ACO-Pants :  [(Documentation)](https://pypi.org/project/ACO-Pants/)
